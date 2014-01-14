@@ -1,9 +1,19 @@
+body {
+  margin-bottom: 50px;
+}
+
 .resume {
-font-size:14px;
+  font-size:14px;
+}
+
+.caption {
+  padding: 5px;
+  color: #333333;
+  text-align: center;
 }
 
 .jumbotron {
-  padding: 30px;
+  padding: 20px;
   margin-bottom: 30px;
   font-size: 21px;
   font-weight: 200;
