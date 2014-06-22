@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+<!DOCTYPE php>
 <html>
-	<?php require("header.html") ?>
+	<?php require("header.php") ?>
         <body>
                 <div class = "navbar navbar-inverse navbar-fixed-top">
                         <div class = "container">             
-                                <a href = "home.html" class = "navbar-brand">{Vikas Joshi}</a>
+                                <a href = "home.php" class = "navbar-brand">{Vikas Joshi}</a>
                                
                                 <button class = "navbar-toggle" data-toggle = "collapse" data-target = "
                                 .navHeaderCollapse">
@@ -16,9 +16,9 @@
                                 <div class = "collapse navbar-collapse navHeaderCollapse">   
                                         <ul class = "nav navbar-nav 
                                         navbar-right">   
-                                                <li><a href = "home.html">Home</a></li>    
-                                                <li class = "active"><a href = "resume.html">Resume</a></li>   
-                                                <!--<li><a href = "projects.html">Projects</a></li>-->
+                                                <li><a href = "home.php">Home</a></li>    
+                                                <li class = "active"><a href = "resume.php">Resume</a></li>   
+                                                <!--<li><a href = "projects.php">Projects</a></li>-->
                                         </ul>
                                 </div>   
                         </div>
@@ -37,7 +37,7 @@
 							<ul>
 								<li>Two years' experience of fundamental programming concepts and their applications in Java and C,
 								developed through various computer science courses</li>
-								<li>Experience with HTML, CSS and PHP developed through work/home projects</li>
+								<li>Experience with php, CSS and PHP developed through work/home projects</li>
 								<li>Acquired basic networking skills from the Helpdesk position</li>
 								<li>Solid experience using Git, Android SDK, Ubuntu (UNIX), Vim and Command line shell environments</li>
 								<li>Ability to promptly debug and analyze source code</li>
@@ -48,7 +48,7 @@
 							<p>Customer Service Representative/Helpdesk, The Michener Institute, Toronto, Ontario, Apr. - Aug. 2013</p>
 							
 							<ul>
-								<li>Implemented web updates to michener.ca as requested with the use of PHP and HTML</li>
+								<li>Implemented web updates to michener.ca as requested with the use of PHP and php</li>
 								<li>Solved several critical networking issues with the LAN Admin that occurred during computer replacements/migrations</li>
 								<li>Installed 185 new computers and phones under pressure with a short deadline</li>
 								<li>Performed troubleshooting and prioritization of all help requests directed to Information Management with minimal supervision</li>
@@ -66,7 +66,7 @@
 							<p>Personal Website, vikasjoshi.ca, Dec. 2013 - Present</p>
 							
 							<ul>
-								<li>Improved HTML and CSS skills while developing vikasjoshi.ca</li>
+								<li>Improved php and CSS skills while developing vikasjoshi.ca</li>
 								<li>Gained experience with Git</li>
 							</ul>
 							
@@ -115,6 +115,6 @@
 							</div>
 						</div>
 				</div>
-	<?php require("footer.html") ?>
+	<?php require("footer.php") ?>
         </body>
 </html>

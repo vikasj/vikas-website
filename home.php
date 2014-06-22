@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+<!DOCTYPE php>
 <html>
-    <?php require("header.html") ?>
+    <?php require("header.php") ?>
         <body>
                 <div class = "navbar navbar-inverse navbar-fixed-top">
                         <div class = "container">
                                
-                                <a href = "home.html" class = "navbar-brand" >{Vikas Joshi}</a>
+                                <a href = "home.php" class = "navbar-brand" >{Vikas Joshi}</a>
 
                                 <button class = "navbar-toggle" data-toggle = "collapse" data-target = ".navHeaderCollapse">
                                         <span class = "icon-bar"></span>
@@ -15,9 +15,9 @@
                                
                                 <div class = "collapse navbar-collapse navHeaderCollapse">
                                         <ul class = "nav navbar-nav navbar-right">
-                                                <li class = "active"><a href = "home.html">Home</a></li>
-                                                <li><a href = "resume.html">Resume</a></li>
-                                                <!--<li><a href = "projects.html">Projects</a></li>-->
+                                                <li class = "active"><a href = "home.php">Home</a></li>
+                                                <li><a href = "resume.php">Resume</a></li>
+                                                <!--<li><a href = "projects.php">Projects</a></li>-->
                                         </ul>
                                 </div>
                         </div>
@@ -52,6 +52,6 @@
 						  </div>
 				        </div>
 				    </div>
-    <?php require("footer.html") ?>
+    <?php require("footer.php") ?>
         </body>
 </html>
