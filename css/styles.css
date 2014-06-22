@@ -1,4 +1,5 @@
 body {
+  padding-top: 50px;
   margin-bottom:50px;
 }
 
@@ -8,6 +9,12 @@ hr {
   border:0;
   border-top:2px solid #000000; 
 }
+
+/*img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}*/
 
 .resume {
   text-align:left;
