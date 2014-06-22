@@ -15,14 +15,14 @@
                                
                                 <div class = "collapse navbar-collapse navHeaderCollapse">
                                         <ul class = "nav navbar-nav navbar-right">
-                                                <li class = "active"><a href = "home.html">Home</a></li>
-                                                <li><a href = "resume.html">Resume</a></li>
+                                                <li class = "active"><a href = "home.php">Home</a></li>
+                                                <li><a href = "resume.php">Resume</a></li>
                                                 <!--<li><a href = "projects.html">Projects</a></li>-->
                                         </ul>
                                 </div>
                         </div>
                 </div>
-                
+
                     <div class = "container">
                         <div class="row">
                             <div class="col-lg-3">
