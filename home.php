@@ -31,7 +31,7 @@
                      			<br>
                                 <div class="thumbnail">
                                 <br>
-                                    <img src="vikas.jpg" alt="Vikas Joshi" height="250" width="245">
+                                    <img src="images/vikas.jpg" alt="Vikas Joshi" height="250" width="245">
 
                                         <div class="caption">
                                             <p><i>"The future depends on what you do today." - Mahatma Gandhi</i></p>
@@ -45,9 +45,9 @@
 							    <p>
                                  <a href = "mailto:v2joshi@uwaterloo.ca" class = "btn btn-primary">Email Me</a> 
 							     |
-							     <a href = "http://www.linkedin.com/pub/vikas-joshi/65/4a8/458"><img src = "linkedin.png" alt="linkedin" height="27" width="103"></a>
+							     <a href = "http://www.linkedin.com/pub/vikas-joshi/65/4a8/458"><img src = "images/linkedin.png" alt="linkedin" height="27" width="103"></a>
                                  |
-                                 <a href = "https://github.com/vikasj"><img src = "github.png" alt="github" height="20" width="85"></a>
+                                 <a href = "https://github.com/vikasj"><img src = "images/github.png" alt="github" height="20" width="85"></a>
                                  </p>
 						  </div>
 				        </div>
