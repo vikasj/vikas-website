@@ -16,8 +16,8 @@
                                 <div class = "collapse navbar-collapse navHeaderCollapse">   
                                         <ul class = "nav navbar-nav 
                                         navbar-right">   
-                                                <li><a href = "home.php">Home</a></li>    
-                                                <li class = "active"><a href = "resume.php">Resume</a></li>   
+                                                <li><a href = "home.php" id="scale">Home</a></li>    
+                                                <li class = "active"><a href = "resume.php" id="scale">Resume</a></li>   
                                                 <!--<li><a href = "projects.php">Projects</a></li>-->
                                         </ul>
                                 </div>   
