@@ -4,7 +4,7 @@
         <body>
                 <div class = "navbar navbar-inverse navbar-fixed-top">
                         <div class = "container">             
-                                <a href = "home.php" class = "navbar-brand">{Vikas Joshi}</a>
+                                <a href = "home.php" id = "scale" class = "navbar-brand">{Vikas Joshi}</a>
                                
                                 <button class = "navbar-toggle" data-toggle = "collapse" data-target = "
                                 .navHeaderCollapse">
@@ -13,11 +13,11 @@
                                         <span class = "icon-bar"></span>
                                 </button>
                                
-                                <div class = "collapse navbar-collapse navHeaderCollapse">   
+                                <div class = "collapse navbar-collapse navHeaderCollapse">
                                         <ul class = "nav navbar-nav 
                                         navbar-right">   
-                                                <li><a href = "home.php" id="scale">Home</a></li>    
-                                                <li class = "active"><a href = "resume.php" id="scale">Resume</a></li>   
+                                                <li><a href = "home.php">Home</a></li>    
+                                                <li class = "active"><a href = "resume.php">Resume</a></li>   
                                                 <!--<li><a href = "projects.php">Projects</a></li>-->
                                         </ul>
                                 </div>   
