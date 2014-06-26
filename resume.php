@@ -2,22 +2,21 @@
 <html>
 	<?php require("header.php") ?>
         <body>
-                <div class = "navbar navbar-inverse navbar-fixed-top">
-                        <div class = "container">             
-                                <a href = "home.php" id = "scale" class = "navbar-brand">{Vikas Joshi}</a>
+                <div class="navbar navbar-inverse navbar-fixed-top">
+                        <div class="container">             
+                                <a href="home.php" id="scale" class="navbar-brand">{Vikas Joshi}</a>
                                
-                                <button class = "navbar-toggle" data-toggle = "collapse" data-target = "
-                                .navHeaderCollapse">
-                                        <span class = "icon-bar"></span>
-                                        <span class = "icon-bar"></span>
-                                        <span class = "icon-bar"></span>
+                                <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
                                 </button>
                                
-                                <div class = "collapse navbar-collapse navHeaderCollapse">
-                                        <ul class = "nav navbar-nav 
+                                <div class="collapse navbar-collapse navHeaderCollapse">
+                                        <ul class="nav navbar-nav 
                                         navbar-right">   
-                                                <li><a href = "home.php">Home</a></li>    
-                                                <li class = "active"><a href = "resume.php">Resume</a></li>   
+                                                <li><a href="home.php">Home</a></li>    
+                                                <li class="active"><a href="resume.php">Resume</a></li>   
                                                 <!--<li><a href = "projects.php">Projects</a></li>-->
                                         </ul>
                                 </div>   
@@ -25,12 +24,12 @@
                 </div>
 
                 <!--Below is an updated resume for Vikas Joshi-->
-				<div class = "container">
-					<div class = "jumbotron text-center">
+				<div class="container" id="fade">
+					<div class="jumbotron text-center">
 							<h2>VIKAS JOSHI</h2>
 							
 							<p style="font-size:14px">2A Computer Science<br>
-							<a href = "mailto:v2joshi@uwaterloo.ca" style="color:black">v2joshi@uwaterloo.ca</a></p>
+							<a href="mailto:v2joshi@uwaterloo.ca" style="color:black">v2joshi@uwaterloo.ca</a></p>
 							<hr>
 							<div class="resume">
 							<h4>Skills Summary</h4>
