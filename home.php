@@ -30,7 +30,7 @@
                      			<br>
                                 <div class="thumbnail">
                                 <br>
-                                    <img src="images/vikas.jpg" alt="Vikas Joshi" height="250" width="245">
+                                    <img src="images/vikas.jpg" id="scale" alt="Vikas Joshi" height="250" width="245">
 
                                         <div class="caption">
                                             <p><i>"The future depends on what you do today." - Mahatma Gandhi</i></p>
