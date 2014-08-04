@@ -27,7 +27,7 @@
                             <div class="col-lg-3">
                      			<br>
                      			<br>
-                     			<br>
+                     		
                                 <div class="thumbnail">
                                 <br>
                                     <img src="images/vikas.jpg" alt="Vikas Joshi" height="290" width="245">
