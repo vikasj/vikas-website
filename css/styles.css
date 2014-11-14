@@ -1,7 +1,7 @@
 body {
   margin-top:50px;
   margin-bottom:50px;
-  background-color: #E1E1E1;
+  background-color: #C0C0C0;
 }
 
 hr {
@@ -10,6 +10,8 @@ hr {
   border:0;
   border-top:2px solid #000000; 
 }
+
+
 
 .resume {
   text-align:left;
@@ -23,42 +25,10 @@ hr {
   text-align: center;
 }
 
-.jumbotron {
-  padding: 20px;
-  margin-bottom: 30px;
-  font-size: 21px;
-  font-weight: 200;
-  line-height: 2.1428571435;
-  color: inherit;
-  background-color: #c4d5ef;
-}
-.jumbotron h1,
-.jumbotron .h1 {
-  line-height: 1;
-  color: inherit;
-}
-.jumbotron p {
-  line-height: 1.4;
-}
-.container .jumbotron {
-  border-radius: 6px;
-}
-.jumbotron .container {
-  max-width: 100%;
-}
-@media screen and (min-width: 768px) {
-  .jumbotron {
-    padding-top: 48px;
-    padding-bottom: 48px;
-  }
-  .container .jumbotron {
-    padding-left: 60px;
-    padding-right: 60px;
-  }
-  .jumbotron h1,
-  .jumbotron .h1 {
-    font-size: 63px;
-  }
+.well {
+  background-color: #3D72A4;
+  border: #3D72A4;
+  color: #222222;
 }
 
 #scale { 
