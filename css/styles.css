@@ -1,7 +1,7 @@
 body {
   margin-top:50px;
   margin-bottom:50px;
-  background-color: #C0C0C0;
+  background-color: #E1E1E1;
 }
 
 hr {
@@ -10,8 +10,6 @@ hr {
   border:0;
   border-top:2px solid #000000; 
 }
-
-
 
 .resume {
   text-align:left;

@@ -1,7 +1,7 @@
 <html>
     <?php require("header.php") ?>
         <body>
-                <div class="navbar navbar-fixed-top">
+                <div class="navbar navbar-inverse navbar-fixed-top">
                         <div class="container">
                                
                                 <a href="home.php" id="scale" class="navbar-brand" >{Vikas Joshi}</a>
