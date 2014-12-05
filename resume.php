@@ -20,8 +20,8 @@
                                                 <li id="navbar-list">
                                                     <a href="home.php">Home</a>
                                                 </li>
-                                                <li id="navbar-list">
-                                                    <a class="active" href="resume.php">Resume</a>
+                                                <li class="active" id="navbar-list">
+                                                    <href="resume.php">Resume</a>
                                                 </li>
                                                 <!--<li><a href = "projects.php">Projects</a></li>-->
                                         </ul>
