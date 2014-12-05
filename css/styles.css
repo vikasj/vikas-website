@@ -12,6 +12,10 @@ hr {
   border-top:2px solid #000000; 
 }
 
+.navbar-list {
+  border-bottom: 1px;
+}
+
 .resume {
   text-align:left;
   font-size:14px;
