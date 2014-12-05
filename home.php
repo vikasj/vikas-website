@@ -28,7 +28,7 @@
                         </div>
                 </nav>
 
-                <div class="container" id="fade" style="margin-top:50px">
+                <div class="container" id="fade" style="margin-top:65px">
                     <div class="row well well-lg">
                         <div class="col-lg-3">
                             <div class="thumbnail" style="margin-right: auto; margin-left: auto; max-width: 260px; max-height: 365px;">

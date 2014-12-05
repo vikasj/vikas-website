@@ -30,7 +30,7 @@
                 </nav>
 
                 <!--Below is an updated resume for Vikas Joshi-->
-				<div class="container" id="fade" style="margin-top:50px">
+				<div class="container" id="fade" style="margin-top:65px">
 					<div class="well well-lg text-center">
 							<h2>VIKAS JOSHI</h2>
 							
