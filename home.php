@@ -31,9 +31,9 @@
                 <div class="container" id="fade" style="margin-top:100px">
                     <div class="row well well-lg">
                         <div class="col-lg-3">
-                            <div class="thumbnail" style="margin-right: auto; margin-left: auto; max-width: 255px; max-height: 350px;">
+                            <div class="thumbnail" style="margin-right: auto; margin-left: auto; max-width: 260px; max-height: 360px;">
 
-                                <img src="images/vikas.jpg" alt="Vikas Joshi" height="300px" width="245px">
+                                <img src="images/vikas.jpg" alt="Vikas Joshi" height="290px" width="245px">
                                 <div class="caption">
                                     <p><i>"The future depends on what you do today." - Mahatma Gandhi</i></p>
                                 </div>
