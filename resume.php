@@ -21,7 +21,7 @@
                                                     <a href="home.php">Home</a>
                                                 </li>
                                                 <li class="active">
-                                                    <href="resume.php">Resume</a>
+                                                    <a href="resume.php">Resume</a>
                                                 </li>
                                                 <!--<li><a href = "projects.php">Projects</a></li>-->
                                         </ul>
