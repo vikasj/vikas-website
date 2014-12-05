@@ -12,10 +12,6 @@ hr {
   border-top:2px solid #000000; 
 }
 
-.navbar-list {
-  border-bottom: 1px;
-}
-
 .resume {
   text-align:left;
   font-size:14px;
@@ -29,8 +25,8 @@ hr {
 }
 
 .well {
-  background-color: #3D72A4;
-  border: #3D72A4;
+  background-color: #A8C5E3;
+  border: #A8C5E3;
   color: #222222;
 }
 

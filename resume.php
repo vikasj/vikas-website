@@ -17,10 +17,10 @@
                                
                                 <div id="navbar" class="navbar-collapse collapse">
                                         <ul class="nav navbar-nav navbar-right">
-                                                <li id="navbar-list">
+                                                <li>
                                                     <a href="home.php">Home</a>
                                                 </li>
-                                                <li class="active" id="navbar-list">
+                                                <li class="active">
                                                     <href="resume.php">Resume</a>
                                                 </li>
                                                 <!--<li><a href = "projects.php">Projects</a></li>-->
