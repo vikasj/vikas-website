@@ -31,7 +31,7 @@
 
                 <!--Below is an updated resume for Vikas Joshi-->
 				<div class="container" id="fade">
-					<div class="jumbotron text-center">
+					<div class="well well-lg text-center">
 							<h2>VIKAS JOSHI</h2>
 							
 							<p style="font-size:14px">2A Computer Science<br>
