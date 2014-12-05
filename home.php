@@ -47,6 +47,6 @@
                     </div>
                 </div>
 
- l.   <?php require("footer.php") ?>
+            <?php require("footer.php") ?>
         </body>
 </html>

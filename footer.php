@@ -1,4 +1,4 @@
-<div class = "navbar navbar-default navbar-fixed-bottom" id="navbar-footer">
+<nav class = "navbar navbar-default navbar-fixed-bottom" id="navbar-footer">
 	<div class = "container" id="border-footer">
         <p style="margin-top:10px;"class="text-center">
             <a href="mailto:v2joshi@uwaterloo.ca" id="scale" class="btn btn-primary">Email Me</a> 
@@ -13,7 +13,7 @@
         </p>
 
     </div>
-</div>  
+</nav>  
 
 <script src = "http://code.jquery.com/jquery-1.10.2.min.js"></script>
 <script src = "js/bootstrap.min.js"></script> 

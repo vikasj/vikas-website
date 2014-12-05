@@ -17,8 +17,7 @@ hr {
 }
 
 .border-footer {
-   border-top-style: solid;
-   border-top-width: 1px;
+   border-width: 1px;
    border-color: #222222;
 }
 
