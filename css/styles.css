@@ -14,10 +14,7 @@ hr {
 
 .navbar-footer {
    height: 100px;  
-}
-
-.border-footer {
-   border-width: 1px;
+  border-width: 1px;
    border-color: #222222;
 }
 

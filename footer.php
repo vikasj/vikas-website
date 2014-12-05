@@ -1,5 +1,5 @@
 <nav class = "navbar navbar-default navbar-fixed-bottom" id="navbar-footer">
-	<div class = "container" id="border-footer">
+	<div class = "container">
         <p style="margin-top:10px;"class="text-center">
             <a href="mailto:v2joshi@uwaterloo.ca" id="scale" class="btn btn-primary">Email Me</a> 
                 &nbsp;
