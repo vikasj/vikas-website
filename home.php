@@ -28,10 +28,10 @@
                         </div>
                 </nav>
 
-                <div class="container" id="fade" style="margin-top:100px">
+                <div class="container" id="fade" style="margin-top:50px">
                     <div class="row well well-lg">
                         <div class="col-lg-3">
-                            <div class="thumbnail" style="margin-right: auto; margin-left: auto; max-width: 260px; max-height: 360px;">
+                            <div class="thumbnail" style="margin-right: auto; margin-left: auto; max-width: 260px; max-height: 365px;">
 
                                 <img src="images/vikas.jpg" alt="Vikas Joshi" height="290px" width="245px">
                                 <div class="caption">
