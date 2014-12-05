@@ -1,26 +1,27 @@
 <html>
     <?php require("header.php") ?>
         <body>
-                <div class="navbar navbar-inverse navbar-fixed-top">
+                <nav class="navbar navbar-inverse navbar-fixed-top">
                         <div class="container">
                                
                                 <a href="home.php" id="scale" class="navbar-brand" >{Vikas Joshi}</a>
 
-                                <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
+                                <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+                                        <span class="sr-only">Toggle navigation</span>
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                 </button>
                                
-                                <div class="collapse navbar-collapse navHeaderCollapse">
-                                        <ul class="nav navbar-nav navbar-right">
+                                <div id="navbar" class="navbar-collapse collapse">
+                                        <ul class="nav navbar-nav">
                                                 <li class="active"><a href="home.php">Home</a></li>
                                                 <li><a href="resume.php">Resume</a></li>
                                                 <!--<li><a href = "projects.php">Projects</a></li>-->
                                         </ul>
                                 </div>
                         </div>
-                </div>
+                </nav>
 
                 <div class="container" id="fade" style="margin-top:100px">
                     <div class="row well well-lg">
