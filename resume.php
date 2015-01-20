@@ -114,7 +114,7 @@
 							<ul>
 								<li>Enjoy working with new technologies</li>
 								<li>Reading Hacker News</li>
-								<li>Playing on various sports teams such as basketball and valleyball teams</li>
+								<li>Playing on various sports teams such as basketball and volleyball teams</li>
 							</ul>
 							
 							</div>
