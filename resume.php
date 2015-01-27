@@ -41,15 +41,24 @@
 							<h4>Skills Summary</h4>
 							<ul>
 								<li>Two years' experience of fundamental programming concepts and their applications in Java and C,
-								developed through various computer science courses</li>
-								<li>Experience with php, CSS and PHP developed through work/home projects</li>
-								<li>Acquired basic networking skills from the Helpdesk position</li>
-								<li>Solid experience using Git, Android SDK, Ubuntu (UNIX), Vim and Command line shell environments</li>
+								developed from computer science courses</li>
+								<li>Solid Experience using Android SDK, C++, Git, Vim, Linux and Unix environments</li>
+								<li>Strong experience with frontend web development using HTML, CSS, PHP, JavaScript and Bootstrap developed from previous co-op internships</li>
+								<li>Experience working in an Agile Scrum environment from Rogers Media Inc</li>
 								<li>Ability to promptly debug and analyze source code</li>
 								<li>Valued analytical and detail oriented skills</li>
 							</ul>
 							
 							<h4>Work Experience</h4>
+							<p>Web Developer, Rogers Media Inc, Toronto, Ontario, Apr. – Aug. 2014</p>
+							
+							<ul>
+								<li>Improved functionality of article cross-posting by enhancing the frontend of the WordPress plugin used on 680News and CityNews</li>
+								<li>Decreased development time of responsive news sites by creating a WordPress Bootstrap-Sass base theme</li>
+								<li>Developed a responsive article page for 680News using Bootstrap, HTML, CSS, PHP and JavaScript</li>
+								<li>Increased quality of several radio and news sites by implementing solutions to frontend problems</li>
+							</ul>
+
 							<p>Customer Service Representative/Helpdesk, The Michener Institute, Toronto, Ontario, Apr. - Aug. 2013</p>
 							
 							<ul>
@@ -68,13 +77,6 @@
 								<li>Strengthened software design skills by using code efficiency</li>
 							</ul>
 
-							<p>Personal Website, vikasjoshi.ca, Dec. 2013 - Present</p>
-							
-							<ul>
-								<li>Improved php and CSS skills while developing vikasjoshi.ca</li>
-								<li>Gained experience with Git</li>
-							</ul>
-							
 							<p>Scribbler Robot Project, Intro to Methods of Software Engineering, Oct. - Nov. 2012</p>
 							
 							<ul> 
@@ -114,9 +116,9 @@
 							<ul>
 								<li>Enjoy working with new technologies</li>
 								<li>Reading Hacker News</li>
-								<li>Playing on various sports teams such as basketball and volleyball teams</li>
+								<li>Dancing with the UW Hip Hop performance team</li>
+								<li>Playing volleyball, basketball and soccer</li>							</ul>
 							</ul>
-							
 							</div>
 						</div>
 				</div>
