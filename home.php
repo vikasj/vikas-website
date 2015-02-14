@@ -42,7 +42,12 @@
 
                         <div class="col-lg-9">
                             <h1>Vikas Joshi</h1>
-                            <p style="font-size:15px">One of my goals in life is to play an important role in the creation of new innovative software that will have a significant impact on our technological advancements. As a student at the University of Waterloo pursuing a Bachelor's degree in Computer Science, programming is definitely my passion. I'm highly dedicated to the work I do and very eager to learn.  My interests include software, web and android development. Please have a look at my <a href="resume.pdf"><b>resume</b></a> and email me if you're looking to hire a developer or have any questions.</p>
+                            <p style="font-size:15px">One of my goals in life is to play an important role in the creation of new innovative 
+                            software that will have a significant impact on our technological advancements. As a student at the University of 
+                            Waterloo pursuing a Bachelor's degree in Computer Science, programming is definitely my passion. 
+                            I'm highly dedicated to the work I do and very eager to learn.  My interests include software, web and android 
+                            development. Please have a look at my <a href="resume.pdf" target="_blank"><b>resume</b></a> and email me if you're looking 
+                            to hire a developer or have any questions.</p>
                         </div>
                     </div>
                 </div>
