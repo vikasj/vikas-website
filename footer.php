@@ -5,11 +5,11 @@
                 &nbsp;
                   |
                 &nbsp;
-            <a href = "http://www.linkedin.com/pub/vikas-joshi/65/4a8/458"><img src = "images/linkedin.png" id="scale" alt="linkedin" height="27" width="103"></a>
+            <a href = "http://www.linkedin.com/pub/vikas-joshi/65/4a8/458" target="_blank"><img src = "images/linkedin.png" id="scale" alt="linkedin" height="27" width="103"></a>
                 &nbsp;
                   |
                 &nbsp;
-            <a href = "https://github.com/vikasj"><img src="images/github.png" id="scale" alt="github" height="20" width="85"></a>
+            <a href = "https://github.com/vikasj" target="_blank"><img src="images/github.png" id="scale" alt="github" height="20" width="85"></a>
         </p>
 
     </div>
