@@ -40,17 +40,30 @@
 							<div class="resume">
 							<h4>Skills Summary</h4>
 							<ul>
-								<li>Two years' experience of fundamental programming concepts and their applications in Java and C,
-								developed from computer science courses</li>
-								<li>Solid Experience using Android SDK, C++, Git, Vim, Linux and Unix environments</li>
-								<li>Strong experience with frontend web development using HTML, CSS, PHP, JavaScript and Bootstrap developed from previous co-op internships</li>
-								<li>Experience working in an Agile Scrum environment from Rogers Media Inc</li>
-								<li>Ability to promptly debug and analyze source code</li>
-								<li>Valued analytical and detail oriented skills</li>
+								<li>Two years of experience in fundamental programming concepts and their applications in Java
+								and C, developed from computer science courses</li>
+								<li>Proficient in front-end web development using Ember.js, HTML5, JavaScript, CoffeeScript, 
+								Sass, CSS3, Bootstrap, and Foundation</li>
+								<li>Proficient in back-end web development using Node.js, Express.js, PSQL, and Sequelize</li>
+								<li>Solid experience using Android SDK, C++, Python, Git, Vim, Unix environments</li>
+								<li>Practical experience applying object-oriented programming concepts</li>
+								<li>Experience working in an Agile Scrum environment from Rogers Media Inc. and Bidvine</li>
 							</ul>
-							
 							<h4>Work Experience</h4>
-							<p>Web Developer, Rogers Media Inc, Toronto, Ontario, Apr. – Aug. 2014</p>
+							<p>Full-Stack Developer, Bidvine, May 2015 – April 2016</p>
+							
+							<ul>
+								<li>Worked across the depth and breadth of web platform development, solving challenges,
+presenting options, and making technical decisions</li>
+								<li>Created new RESTful API endpoints using Node.js, Express.js, PSQL, and Sequelizee</li>
+								<li>Revamped the back-end API to improve API response time by more than 70%</li>
+								<li>Developed solutions to front-end problems using Ember.js, Foundation, CoffeeScript, Ajax,
+HTML5, and Sass</li>
+								<li>Significantly improved searching on Bidvine by integrating the elasticsearch.js API</li>
+								<li>Organized the first Bidvine hackathon that resulted in releasing several successful projects</li>
+							</ul>	
+
+							<p>Web Developer, Rogers Media Inc, April – August 2014</p>
 							
 							<ul>
 								<li>Improved functionality of article cross-posting by enhancing the frontend of the WordPress plugin used on 680News and CityNews</li>
@@ -59,25 +72,25 @@
 								<li>Increased quality of several radio and news sites by implementing solutions to frontend problems</li>
 							</ul>
 
-							<p>Customer Service Representative/Helpdesk, The Michener Institute, Toronto, Ontario, Apr. - Aug. 2013</p>
+							<p>Customer Service Representative/Helpdesk, The Michener Institute, April - August 2013</p>
 							
 							<ul>
 								<li>Implemented web updates to michener.ca as requested with the use of PHP and php</li>
 								<li>Solved several critical networking issues with the LAN Admin that occurred during computer replacements/migrations</li>
 								<li>Installed 185 new computers and phones under pressure with a short deadline</li>
-								<li>Performed troubleshooting and prioritization of all help requests directed to Information Management with minimal supervision</li>
+								<li>Performed troubleshooting and prioritization of all help requests with minimal supervision</li>
 							</ul>
 							
-							<h4>Relevant Projects</h4>
-							<p>Math135 Propositions, Android Application, Dec. 2013 - Present</p>
+							<h4>Projects</h4>
+							<p>Math 135, Android Application, December 2014 - Present</p>
 							
 							<ul>
-								<li>Programmed an android application that conveniently displays mathematical propositions learned in Algebra</li>
-								<li>Enhanced object-oriented programing skills using Java, XML and Eclipse</li>
-								<li>Strengthened software design skills by using code efficiency</li>
+								<li>Programmed an android application using Android SDK, Java, XML and Eclipse, that conveniently
+displays mathematical propositions learned in Algebra</li>
+								<li>Created for the University of Waterloo students to help study for the Math 135 course</li>
 							</ul>
 
-							<p>Scribbler Robot Project, Intro to Methods of Software Engineering, Oct. - Nov. 2012</p>
+							<p>Scribbler Robot Project, Intro to Methods of Software Engineering, October - November 2012</p>
 							
 							<ul> 
 								<li>Collaboratively programmed the Scribbler Robot to autonomously
@@ -86,7 +99,7 @@
 								<li>Developed a basic understanding of Python and demonstrated the ability to work within a team setting</li>
 							</ul>
 							
-							<p>Final Computer Science Project, Computer Science, Dec. 2011 - Jan. 2012</p>
+							<p>Final Computer Science Project, Computer Science, December 2011 - January 2012</p>
 								
 								<ul>
 									<li>Independently programmed casino style games such as Texas holdem poker, blackjack and slots</li>
@@ -96,16 +109,16 @@
 							
 							<h4>Education</h4>
 							
-							<p>Candidate for Bachelor of Computer Science, Co-operative Program, University of Waterloo,
-							Waterloo, ON, Sept. 2012 - present</p>
+							<p>Candidate for Bachelor of Mathematics, Co-operative Program, University of Waterloo,
+							Waterloo, ON, September 2013 - present</p>
 							
 							<p>Ontario Secondary School Diploma, Bluevale Collegiate Institute, Waterloo Ontario, June 2012</p>
 							
 							<h4>Awards & Achievements</h4>
 							
 							<ul>
-								<li>President's Scholarship, University of Waterloo, Waterloo, ON, Sept. 2012 (for high school admission average)</li>
-								<li>Waterloo County Entrance Scholarship, University of Waterloo, Waterloo, ON, Sept. 2012 (for outstanding academic performance in a Region of Waterloo secondary school)</li>
+								<li>President's Scholarship, University of Waterloo, Waterloo, ON, September 2012 (for high school admission average)</li>
+								<li>Waterloo County Entrance Scholarship, University of Waterloo, Waterloo, ON, September 2012 (for outstanding academic performance in a Region of Waterloo secondary school)</li>
 								<li>Ontario Scholar Certificate, Bluevale Collegiate Institute, Waterloo, ON, June 2012</li>
 								<li>Certificate of Achievement: Completing Conestoga College Dual Credit Course for Engineering
 								Drawing and Technological Design, Bluevale Collegiate Institute, Waterloo, ON, June 2012</li>
