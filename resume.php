@@ -33,8 +33,6 @@
 				<div class="container" id="fade" style="margin-top:65px">
 					<div class="well well-lg text-center">
 							<h2>VIKAS JOSHI</h2>
-							
-							<p style="font-size:14px">2A Computer Science<br>
 							<a href="mailto:v2joshi@uwaterloo.ca" style="color:black">v2joshi@uwaterloo.ca</a></p>
 							<hr>
 							<div class="resume">
